@@ -2,6 +2,7 @@
 
 Complete code examples and exercises for the Java Capstone1 course on openHPI.
 
+
 ## The counter example in Processing (Worksheet 1 and 2)
 
 https://github.com/ThomasStaubitz/capstone1-counter1
