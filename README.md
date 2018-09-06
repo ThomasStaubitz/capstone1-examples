@@ -40,4 +40,5 @@ https://github.com/ThomasStaubitz/capstone1-p-Composite
 
 https://github.com/ThomasStaubitz/capstone1-p-Observer
 
+https://github.com/ThomasStaubitz/capstone1-p-Strategy
 
