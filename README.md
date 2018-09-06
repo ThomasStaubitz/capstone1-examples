@@ -42,3 +42,7 @@ https://github.com/ThomasStaubitz/capstone1-p-Observer
 
 https://github.com/ThomasStaubitz/capstone1-p-Strategy
 
+## Scaffold to get started with the project
+
+https://github.com/ThomasStaubitz/capstone1-TheProject
+
